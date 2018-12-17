@@ -15,7 +15,7 @@ import java.io.*;
 public class classCountMojo extends AbstractMojo {
 
     /**
-     * 初始化计数器
+     * 计数器
      */
     private static int count = 0;
 
